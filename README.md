@@ -30,5 +30,3 @@ ngrok authtoken your_ngrok_token
 ## Running the app
 Run the Streamlit app
 
-![Screenshot (343)](https://github.com/rohithreddy66666/Fun_projects/assets/29374423/65d0d7f8-6c41-4f30-82e8-aa5d89d6d17c)
-
